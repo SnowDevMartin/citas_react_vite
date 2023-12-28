@@ -1,6 +1,6 @@
 # 📌 Citas React
 
-Este proyecto es parte del curso 🎓 de Udemy impartido por Juan Pablo De la Torre Valdez sobre React, abordando conceptos clave como Hooks, Context, Redux, Remix, Next, Strapi, Prisma y la pila tecnológica MERN. En este mini proyecto, nos enfocamos en aprender los fundamentos de React, utilizando herramientas como Vite para el entorno de desarrollo, Tailwind CSS para el diseño y localstorage para el manejo de datos.
+Este proyecto es parte del curso 🎓 de Udemy impartido por Juan Pablo De la Torre Valdez sobre React. En este mini proyecto, nos enfocamos en aprender los fundamentos de React, utilizando herramientas como Vite para el entorno de desarrollo, Tailwind CSS para el diseño y localstorage para el manejo de datos.
 
 ## Contenido del Curso
 
