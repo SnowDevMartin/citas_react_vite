@@ -22,11 +22,11 @@ Si no sólo quieres ver el proyecto funcionando con el enlae anterior, puedes de
 
 1. Clona el repositorio a tu máquina local.
    ```bash
-   git clone https://github.com/tuusuario/citas-react.git
+   git clone https://github.com/SnowDevMartin/citas_react_vite.git
 
 2. Instala las dependencias del proyecto.
    ```bash
-   cd citas-react
+   cd citas_react_vite
    npm install
 
 3. Inicia la aplicación en tu entorno de desarrollo local.
